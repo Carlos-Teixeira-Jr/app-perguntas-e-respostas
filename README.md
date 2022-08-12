@@ -12,12 +12,12 @@ Captura de dados enviados pelo usuário em formulários e inputs por meio do Bod
 <hr>
 Ferramentas e tecnologias usadas:<br>
 <br>
-HTML;
-CSS;
-Javascript;
-Bootstrap;
-Node.js;
-EJS;
-Sequelize;
-Body-parser;
+HTML;<br>
+CSS;<br>
+Javascript;<br>
+Bootstrap;<br>
+Node.js;<br>
+EJS;<br>
+Sequelize;<br>
+Body-parser;<br>
 MySQL;
