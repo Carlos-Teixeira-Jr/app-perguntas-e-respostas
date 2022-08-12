@@ -5,3 +5,17 @@ body{
 #formulario-pergunta{
   margin-top: 5vh;
 }
+
+img{
+  width: 25%;
+  height: 25%;
+  padding-left: 30px;
+}
+
+.navbar{
+  padding: 0;;
+}
+
+.navbar-brand{
+  padding: 0;
+}
