@@ -1,5 +1,5 @@
 # app-perguntas-e-respostas
-Aplicação simples com uma página de perguntas e respostas para exercitar conceitos de APIs com Node.
+Aplicação simples com uma página de perguntas e respostas para exercitar conceitos de Back-end e criação de APIs com Node.
 <hr>
 Alguns conceitos usados:<br>
 <br>
